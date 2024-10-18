@@ -1,0 +1,7 @@
+[mysqld]
+binlog_format=ROW
+enforce_gtid_consistency=ON
+gtid_mode=ON
+session_track_gtids=OWN_GTID
+
+innodb_thread_concurrency=3

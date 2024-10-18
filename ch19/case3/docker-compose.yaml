@@ -1,0 +1,14 @@
+version: "3.9"
+name: ch19_case3
+services:
+  mysqld:
+    image: bitnami/mysql:8.0.39
+    restart: always
+    volumes:
+      - ./db_init.d:/docker-entrypoint-initdb.d
+      - ./conf/my_custom.cnf:/opt/bitnami/mysql/conf/my_custom.cnf
+    environment:
+      MYSQL_ROOT_PASSWORD: sa_pass
+      MYSQL_DATABASE: test
+    ports:
+      - "3306"

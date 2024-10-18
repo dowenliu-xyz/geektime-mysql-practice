@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="test@mysqld.ch05-case1.orb.local" uuid="6a976a4e-2724-4788-8c61-96862607c372">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch05-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch06-case1.orb.local" uuid="10aeae7a-69ff-46e2-a067-cf622abc7e4c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch06-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch06-case2.orb.local" uuid="256f8010-a1e6-4e37-894b-777a9e8a3b65">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch06-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch07-case1.orb.local" uuid="8a0fbdc3-d2c2-475d-a4bf-aa81eb6ea729">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch07-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch07-case2.orb.local" uuid="1654b07b-940d-4df3-964a-383c1c3b1405">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch07-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch08-case1.orb.local" uuid="708eb50f-9205-46da-a35a-b8955fb37c8b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch08-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch08-case2.orb.local" uuid="6ae09de5-222c-4c66-8ca0-fb32c82fbc4d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch08-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch08-case3.orb.local" uuid="86d3b909-3e54-4c5b-98c5-c28c06319ff7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch08-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch10-case1.orb.local" uuid="c5eba426-fa22-4fd6-9272-603d10a85adf">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch10-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch12-case1.orb.local" uuid="0e711d41-5c3d-4596-aadc-8a4fcc1d2df1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch12-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch14-case1.orb.local" uuid="e240a8fa-5a90-4afd-b4cd-48e45622ca63">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch14-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch16-case1.orb.local" uuid="16ab56bf-c8b5-4d0b-8b35-295b52d1928e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch16-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch17-case1.orb.local" uuid="9214fe39-bb5e-4211-a3e4-1b8744006297">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch17-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch18-case1.orb.local" uuid="dad14c23-7de3-4a99-b030-07b0471bc35a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch18-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch19-case1.orb.local" uuid="1a75546e-e5db-4dac-ba2e-50ec67159e8c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch19-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch19-case2.orb.local" uuid="0b15c4b3-00f0-43cf-8711-04288ec60aa9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch19-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch19-case3.orb.local" uuid="cf281100-13dd-4f9f-9e14-1f487e4ea21a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch19-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch19-case4.orb.local" uuid="ebb8edd0-e3eb-4079-936e-87821cac5802">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch19-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch20-case1.orb.local" uuid="cd1d9874-a185-4b81-8f2d-0c14e4ea87db">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch20-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch20-case2.orb.local" uuid="067ce6e5-6800-4bcd-8ad8-660100e41725">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch20-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch20-case3.orb.local" uuid="a88cf0af-da48-4ecd-a5a0-cc9921138743">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch20-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch20-case4.orb.local" uuid="7de51100-e5af-4325-98be-c841e1ed934f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch20-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch20-case5.orb.local" uuid="67dc8b9a-b8bb-43d3-9d2a-e8484f365ceb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch20-case5.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case1.orb.local" uuid="d14bb018-9a82-4edd-8653-b46df221364e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case2.orb.local" uuid="53ae4221-853a-4663-a990-37592e3e3e1e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case3.orb.local" uuid="5103e72c-d8de-46d9-8686-92859076212e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case4.orb.local" uuid="674a198a-0ede-4f78-9c6c-827da3f3eb5d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case5.orb.local" uuid="6d705f79-993c-4601-bb02-fd56fdda2525">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case5.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case6.orb.local" uuid="fbe8f1ca-0e54-486a-ba5a-0c92ba9f28cd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case6.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case7.orb.local" uuid="ba84625c-3a2e-4d31-867a-263c828d12d9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case7.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch21-case8.orb.local" uuid="d5bb31bc-bb00-4e0c-920b-9f9520d626a2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch21-case8.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch22-case1.orb.local" uuid="feaae0a9-88c2-4a96-a3ab-d9f7dc8bfbde">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch22-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch24-row.orb.local" uuid="5e2b8338-db2c-48bc-a35b-fa29f782c2c2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch24-row.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch24-statement.orb.local" uuid="efc4a889-11fa-440e-b15f-846a9c5e173a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch24-statement.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch28-gtid-fetch.orb.local" uuid="ea495e22-fba8-4bf8-a3c8-99d593ed7bf8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch28-gtid-fetch.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch29-case1.orb.local" uuid="00ece520-ce70-4a13-b97d-8f0a73ca1d18">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch29-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch30-case1.orb.local" uuid="4d41f9f8-09d7-4413-84c8-13e6f72db1c6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch30-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch30-case2.orb.local" uuid="61a7c4b0-c5c1-4bc6-b04c-a6086165307b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch30-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch30-case3.orb.local" uuid="125d3d07-1625-4569-964e-be8ec6d041d0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch30-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch32-case1.orb.local" uuid="7840d23e-1994-4a08-a228-74468815adb3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch32-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch32-case2.orb.local" uuid="67ce2a6b-0ea6-4d6e-8e87-c95d7570036d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch32-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch33-case1.orb.local" uuid="c6be4677-90d0-45e7-9ca9-6d44b41d90af">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch33-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch34-case1.orb.local" uuid="24cb6ade-b23f-41b5-b2c0-e911580ed5ef">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch34-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch35-case1.orb.local" uuid="d226e041-3ff4-4009-b845-bd8b9754136b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch35-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch36-case1.orb.local" uuid="ade6d275-e7ae-41c3-9196-95f1353ae490">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch36-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch37-case1.orb.local" uuid="2083d132-af67-489a-bb80-682734fd56e0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch37-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch38-case1.orb.local" uuid="78c07b64-5840-49c9-9b3e-546abb78c907">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch38-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch39-case1.orb.local" uuid="b27e2cdb-d347-4106-8da0-c1e8f69315c5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch39-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch39-case2.orb.local" uuid="dac7ce3e-c63c-42ce-b8af-c74a2eadb070">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch39-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch39-case3.orb.local" uuid="d9a63ad1-52ea-4500-85b4-fe449979789e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch39-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch39-case4.orb.local" uuid="441b6e0c-5387-4b3f-951b-c3a71eb52560">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch39-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch40-case1.orb.local" uuid="ec556901-ee26-4844-af86-de38ff5800c5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch40-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch40-case2.orb.local" uuid="a505379f-bfb6-474c-88bf-0a7cb4e0d624">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch40-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch40-case3.orb.local" uuid="691c6558-7391-4dc7-b67c-29065e23abe1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch40-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch40-case4.orb.local" uuid="7257e33f-7815-41e8-827b-15a5a4993f4c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch40-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch40-case5.orb.local" uuid="f39e2ea5-0257-46c9-87f7-637878e4df7a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch40-case5.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch42-case1.orb.local" uuid="b9c454e4-822f-41bb-a37d-7510e8359436">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch42-case2.orb.local" uuid="13fd4194-5251-4f31-b6e6-974240941f29">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@mysqld.ch42-case2.orb.local" uuid="8600fa3b-8780-4d8f-80db-f9fcbd1b00d8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case2.orb.local:3306/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch42-case3.orb.local" uuid="3507e517-12b0-4019-9032-09adbe96ca13">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case3.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@mysqld.ch42-case3.orb.local" uuid="ddd189fe-22e1-4fc4-8435-24939b1a2afa">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case3.orb.local:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch42-case4.orb.local" uuid="a670a4d8-ddf0-46c7-903c-8026afb6e6bd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch42-case4.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch43-case1.orb.local" uuid="270c6b58-c513-428f-a5a8-552fa862c74c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch43-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch43-case2.orb.local" uuid="0e9e249a-34d5-491a-8372-ac3d72d9d4b0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch43-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch44-case1.orb.local" uuid="4c6beb03-48d4-4109-9a50-a2d2346ae963">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch44-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch44-case2.orb.local" uuid="31a17980-4e8b-4c64-a792-e19b91fc0f24">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch44-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch45-case1.orb.local" uuid="55ba967b-d32f-4196-9cb5-1e7ee244c2ac">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch45-case1.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="test@mysqld.ch45-case2.orb.local" uuid="892366c6-e80b-46f2-97f6-240f92740242">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysqld.ch45-case2.orb.local:3306/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

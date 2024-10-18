@@ -1,0 +1,1 @@
+SELECT * FROM  t LOCK IN SHARE MODE ; -- blocked and switch to session 3

@@ -1,0 +1,2 @@
+SHOW DATABASES ;
+# access denied

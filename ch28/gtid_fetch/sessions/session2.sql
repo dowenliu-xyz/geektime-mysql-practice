@@ -1,0 +1,1 @@
+UPDATE `t` SET c = 2 WHERE id = 1;

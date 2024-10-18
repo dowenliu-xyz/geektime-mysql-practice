@@ -1,0 +1,1 @@
+SELECT sleep(1000) FROM t;

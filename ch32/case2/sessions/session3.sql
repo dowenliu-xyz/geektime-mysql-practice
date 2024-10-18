@@ -1,0 +1,1 @@
+SELECT * from t; -- blocked and switch to session 4

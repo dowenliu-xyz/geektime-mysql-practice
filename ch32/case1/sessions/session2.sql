@@ -1,0 +1,1 @@
+UPDATE t SET c = c + 1 WHERE id = 1; -- blocked and switch to session 3

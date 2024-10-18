@@ -1,0 +1,5 @@
+[mysqld]
+binlog_format=STATEMENT
+enforce_gtid_consistency=ON
+gtid_mode=ON
+session_track_gtids=OWN_GTID

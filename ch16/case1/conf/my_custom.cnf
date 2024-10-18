@@ -1,0 +1,7 @@
+[mysqld]
+binlog_format=ROW
+enforce_gtid_consistency=ON
+gtid_mode=ON
+session_track_gtids=OWN_GTID
+innodb_io_capacity=10000
+default_tmp_storage_engine=myisam
